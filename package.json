@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "bezier-easing": "^2.1.0",
+    "bindall-standalone": "^1.0.5",
+    "lethargy": "^1.0.9",
+    "locomotive-scroll": "^4.1.4",
+    "type": "module",
+    "object-assign": "^4.1.1",
+    "smoothscroll-polyfill": "^0.4.4",
+    "tiny-emitter": "^1.2.0",
+    "virtual-scroll": "^1.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
